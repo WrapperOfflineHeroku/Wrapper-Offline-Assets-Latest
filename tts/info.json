@@ -71,7 +71,14 @@
 			"source": "acapela",
 			"arg": "emilioenglish22k",
 			"desc": "Emilio (English)"
-		
+		},
+		"josh": {
+			"country": "US",
+			"language": "en",
+			"gender": "M",
+			"source": "acapela",
+			"arg": "josh22k",
+			"desc": "Josh"
 		},
 		"karen_acapela": {
 			"country": "US",
@@ -128,7 +135,30 @@
 			"source": "acapela",
 			"arg": "rod22k",
 			"desc": "Rod"
-		
+		},
+		"ryan": {
+			"country": "US",
+			"language": "en",
+			"gender": "M",
+			"source": "acapela",
+			"arg": "ryan22k",
+			"desc": "Ryan"
+		},
+		"saul": {
+			"country": "US",
+			"language": "en",
+			"gender": "M",
+			"source": "acapela",
+			"arg": "saul22k",
+			"desc": "Saul"
+		},
+		"scott": {
+			"country": "US",
+			"language": "en",
+			"gender": "M",
+			"source": "acapela",
+			"arg": "scott22k",
+			"desc": "Scott"
 		},
 		"sharon": {
 			"country": "US",
@@ -225,7 +255,14 @@
 			"source": "acapela",
 			"arg": "graham22k",
 			"desc": "Graham"
-		
+		},
+		"harry": {
+			"country": "UK",
+			"language": "en",
+			"gender": "M",
+			"source": "acapela",
+			"arg": "harry22k",
+			"desc": "Harry"
 		},
 		"lucy": {
 			"country": "UK",
@@ -306,7 +343,14 @@
 			"source": "acapela",
 			"arg": "deepa22k",
 			"desc": "Deepa"
-		
+		},
+		"liam": {
+			"country": "AU",
+			"language": "en",
+			"gender": "M",
+			"source": "acapela",
+			"arg": "liam22k",
+			"desc": "Liam"
 		},
 		"lisa_acapela": {
 			"country": "AU",
@@ -314,7 +358,15 @@
 			"gender": "F",
 			"source": "acapela",
 			"arg": "lisa22k",
-		
+			"desc": "Lisa (Acapela)"
+		},
+		"olivia_acapela": {
+			"country": "AU",
+			"language": "en",
+			"gender": "M",
+			"source": "acapela",
+			"arg": "olivia22k",
+			"desc": "Olivia (Acapela)"
 		},
 		"tyler": {
 			"country": "AU",
@@ -1155,7 +1207,14 @@
 			"arg": [2, 1, 8],
 			"source": "vocalware",
 			"desc": "Steven (OddCast)"
-		
+		},
+		"kenneth": {
+			"country": "US",
+			"language": "en",
+			"gender": "M",
+			"arg": [2, 1, 3],
+			"source": "vocalware",
+			"desc": "Kenneth"
 		},
 		"susan1": {
 			"country": "US",
@@ -3036,7 +3095,15 @@
 			"source": "cereproc",
 			"arg": "Yuki-CereWave",
 			"desc": "Yuki (CereWave)"
-		
+		},
+		"matthew": {
+			"country": "US",
+			"language": "en",
+			"gender": "M",
+			"source": "polly",
+			"polly_engine": "standard",
+			"arg": "Matthew",
+			"desc": "Matthew"
 		},
 		"kevin": {
 			"country": "US",
@@ -3181,7 +3248,15 @@
 			"polly_engine": "standard",
 			"arg": "Nicole",
 			"desc": "Nicole"
-		
+		},
+		"russell": {
+			"country": "AU",
+			"language": "en",
+			"gender": "M",
+			"source": "polly",
+			"polly_engine": "standard",
+			"arg": "Russell",
+			"desc": "Russell"
 		},
 		"raveena": {
 			"country": "IN",
@@ -3208,7 +3283,15 @@
 			"source": "readloud",
 			"arg": "/english/american/25-female-voice-gwyneth.html",
 			"desc": "Gwyneth (English)"
-		
+		},
+		"geraint": {
+			"country": "GB",
+			"language": "en",
+			"gender": "M",
+			"source": "polly",
+			"polly_engine": "standard",
+			"arg": "Geraint",
+			"desc": "Geraint"
 		},
 		"mads": {
 			"country": "DK",
